@@ -19,7 +19,9 @@
 <h2 align="left">Contact me</h2>
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=linkedin" height="40" alt="linkedin logo"  />
+  <a href="https://www.linkedin.com/in/adrian-urena-valles/" target="_blank">
+   <img src="https://skillicons.dev/icons?i=linkedin" height="40" alt="linkedin logo"  />
+  </a>
 </div>
 
 ###
